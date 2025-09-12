@@ -1,0 +1,35 @@
+body{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+}
+h2{
+    background-color: lightgreen;
+}
+#foot{
+    font-size: 48px;
+    color: red;
+}
+article{
+    background-color: lightgrey;
+}
+.subTitle{
+    background-color: brown;
+    color: red;
+}
+.textBold{
+    font-weight: bold;
+    font-size: 16px;
+}
+#first{
+    font-size: 32px;
+}
+#second{
+    font-size: 24px;
+}
+third{
+    font-size: 20px;
+}
+#first, #second, #third{
+    font-size: 50px;
+}
