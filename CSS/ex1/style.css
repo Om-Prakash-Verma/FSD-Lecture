@@ -1,0 +1,16 @@
+#box1{
+    background-color:#87bfff;
+    height: auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 5px;
+}
+li{
+    color: white;
+}
+h2{
+    text-align: center;
+}
+#imgcontainer{
+    text-align: center;
+}

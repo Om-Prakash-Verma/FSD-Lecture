@@ -1,35 +1,56 @@
-body{
+body {
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
     background-color: lightblue;
 }
-h2{
+
+h2 {
     background-color: lightgreen;
 }
-#foot{
+
+#foot {
     font-size: 48px;
     color: red;
 }
-article{
+
+article {
     background-color: lightgrey;
 }
-.subTitle{
+
+.subTitle {
     background-color: brown;
     color: red;
 }
-.textBold{
+
+.textBold {
     font-weight: bold;
     font-size: 16px;
 }
-#first{
+
+#first {
     font-size: 32px;
 }
-#second{
+
+#second {
     font-size: 24px;
 }
-third{
+
+third {
     font-size: 20px;
 }
-#first, #second, #third{
+
+#first,
+#second,
+#third {
     font-size: 50px;
+}
+
+footer>p {
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+*{
+    margin: 5px;
 }
